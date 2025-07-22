@@ -1,0 +1,30 @@
+> > > Question 1:
+> > > Describe a situation in which you had a radically different opinion from a colleague, or in
+> > > which you strongly disagreed with the technical direction being taken on or by your team.
+> > > What led to the difference in opinion, and what steps did you take to resolve the situation?
+
+> Situation#1:
+> I remember two situations, different circumstances. First, the strongest example, when I was a Junior QA engineer with only 2 years of experience, few weeks after entering at the CESAR company, a senior QA asked me to do a set of tests under a specific approach/strategy. Once that was quite different from the formal way I learned/worked before (my theory was based on classes from the Software, Testing Specialization from the Federal University of PERNAMBUCO), I tried to explain the theory politely, trying to link/highlight the right sentences she said. I asked her to explain, trying to be a good listener, but I realized she started to become nervous, insisting and increasing the voice level, until just left that conversation.
+> Even believing in what I said, I grew up with enough humility to become calm and consider searching for solid references to confirm it. I've found some main results from google schoolar, but I was decided just to ignore the situation.
+
+Some minutes later, she went back to my seat saying "I'm a Senior QA Enginner, so you need to do what I'm saying just because it's right". My answer was just to show her the solid content I found, then saying that definitions were not important, since both of us were worried about doing a better QA effort (I tried to keep a good relationship).
+When she realised I was not convinced by her, she called a friend of her to convince me I would be wrong/she would be right. Again, I stayed calm, but fortunately her friend confirmed my thesis, trying to be so polite as possible. After that, again, the arrogant Sr QA just left the conversation and her friend asked me to disregard thar whole situation since the Sr QA was quite stubborn in some situations.
+Well, I could listen peacefully, politely, disagreeing constructively, giving solid references and being logic. In the end, not so long later we became good colleagues supporting each other in many situations, so nowadays we just laugh of that.
+
+> Situation#2 (not exactly a direct conflit, but a team issue):
+> Some years ago, I started as a QA Lead in a existent team without a good culture of quality. The two QA who worked there since the beginning told me not rarely the development team always blamed the QA team when something wrong happened.
+> I knew would take a long time to change that mindset and culture, but I started having 1:1 meeting with every team member, trying to understand under a light and fluent conversation for each one (including the manager) his experience, background, the strategy and personal points.
+> Of course I knew it could be difficult for them to start listening someone new in the team, so first I let the time pass and worked to be really integrated and with a good relationship with all of them. Based on the asusmptions, I proposed some workshops not only to share content but also to request ideas, like a brainstorm, in order to each one fell responsible/part of the solution.
+> With some extra steps, few weeks ago, we defined a Quality strategy (not focused just on QA team) and few months later we implemented/improved unit, integration, ui/e2e tests, clear acceptance criteria/Definition of Ready/Definition of Done, automation tests, CI/CD and pipeline integration running on cloud and so on.
+> In the end, I just helped the team to express their best version, and not only the metrics/results were improved, but also and mainly the team relationship. That project was special for me since it was my first success as a QA Lead.
+
+# ======================================================================================================
+
+> > > Question 2:
+
+In 2021 I was the QA Lead for an important project (banking industry) at the CESAR company, dealing with UI/API automation and Performance Tests. After years doing not so different activities (even for diffenrent projects/industries), I asked for something new and since I was engaged in learning, the placed me to start QA tasks in an existent Research Project (with only developers) to deal with Artificial Intelligence (Machine Learning) for the DELL company (CESAR's client), dealing with great amoutn of text data.
+
+My responsibility first was to understand that new world (I bought a book to help me) and think in a way to test the FE, the architecture and the final data models, through data validations using basically python automation, Great Expectation tool (GX) and Apache Airflow. We created checks like schema validation (from Airflow DAGs) using GX, Python (Pytest) with SQL to check input data and Performance validation with K6.io to analyse some thresholds (perspectives like soak, strss, spike). All of it running in a big structure orchestrated with Airflow, so after every ETL we ran the validations.
+
+In the end, not only the internal team but also the customer (DELL) realized our output models were more robust, trustful and solid, and the project was renewed and grew up.
+It's important emphasize the important from my background (2013/14) from the Specialization in Database Systems with emphasis in Business Intelligence (not DBA persepective, but that course was a precursor of we now called Data Analysis, dealing with ETL, OLAP systems, multidimensional cubes, data warehouses, etc)
