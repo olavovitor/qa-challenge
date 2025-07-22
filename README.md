@@ -1,6 +1,6 @@
 # Sr QA Engineer Prompts Project
 
-This repository stores a step of the selection proccess for a Sr QA Engineer position at the Fortis Games comapny.
+This repository stores a step of the selection proccess for a Sr QA Engineer position at the Fortis Games company.
 
 The objective is to develop a small-scale automation script to validate the functionality of a random date generator website.
 
@@ -17,8 +17,8 @@ The objective is to develop a small-scale automation script to validate the func
 
 ## Fork and clone the project
 
-1. Copy the project URL `https://github.com/olavovitor/skills-challenge.git`;
-2. Access the forked project `cd skills-challenge`
+1. Copy the project URL `https://github.com/olavovitor/qa-challenge.git`;
+2. Access the forked project `cd qa-challenge`
 
 ## Instal the project
 
