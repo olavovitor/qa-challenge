@@ -1,0 +1,13 @@
+{
+    "DATES_PATH":"/calendar-dates",
+
+    "TOTAL_RANDOM_DATES":"4",
+    "TOTAL_OF_POSSIBLE_DATES_IN_RANGE":"493",
+    
+    "START_DAY":"5",
+    "START_MONTH":"January",
+    "START_YEAR":"2024",
+    "END_DAY":"25",
+    "END_MONTH":"November",
+    "END_YEAR":"2025"
+}

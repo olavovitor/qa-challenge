@@ -1,0 +1,16 @@
+{
+  "section1Heading": "Step 1: The Dates",
+  "numOfDaysInp": "input[name='num']",
+  "startDayField": "select[name='start_day']",
+  "startMonthField": "select[name='start_month']",
+  "startYearField": "select[name='start_year']",
+  "endDayField": "select[name='end_day']",
+  "endMonthField": "select[name='end_month']",
+  "endYearField": "select[name='end_year']",
+  "gregorianCalendarLink": "Gregorian Calendar",
+ 
+  "section4Heading": "Step 4: Go!",
+  "getDatesBtn": "Get Dates",
+  "resetFormBtn": "Reset Form",
+  "switchToAdvancedModeBtn": "Switch to Advanced Mode"
+}
