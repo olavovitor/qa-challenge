@@ -1,0 +1,6 @@
+{
+  "preferencesCookiesOpt":"#cookie-banner-preferences",
+  "statisticsCookiesOpt":"#cookie-banner-statistics", 
+  "allowSelectedCookies": "Allow Selected",
+  "allowAllCookies": "Allow All"
+}
